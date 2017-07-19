@@ -1,0 +1,3 @@
+g++ -o temp.out $1.cpp
+./temp.out
+rm temp.out
